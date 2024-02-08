@@ -1,5 +1,5 @@
 # CupidAI - Matchmaking App - Server
-## Created using NodeJs, Express, MongoDB, OpenAI API
+## Created using NodeJs, Express, Typescript, MongoDB, OpenAI API
 
 CupidAI is an innovative matchmaking app that leverages user self-depiction and the powerful OpenAI API to find the ideal partner.
 This project comprises two distinct components: the server and the client. The server seamlessly manages user data using MongoDB and
