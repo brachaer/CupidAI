@@ -18,7 +18,7 @@ aiming for an impressive 70% compatibility match with another individual's email
 #### Before running the application, ensure that you've set up the server and client environments. 
 #### This repository contains the server code. 
 #### Once you've completed the setup here, proceed to the client repository for the next steps in the process.
-
+#### You will need a MongoDB connection string and an OpenAI API key.
 ### 1. Clone the repository:
       git clone <repository-url>
 ### 2.	Open terminal from server folder.
@@ -30,7 +30,8 @@ aiming for an impressive 70% compatibility match with another individual's email
       CONN=your-mongodb-connection-string 
 ### 5.	Run server:
       npm start
-### 6.	Follow with client repo---
+### 6.	Follow with [Client Repository](https://github.com/brachaer/CupidAIClient)
+<br/>
 
 ### Configuration Note
 **Make sure your client is running on the same port as specified in the server's CORS configuration.**
